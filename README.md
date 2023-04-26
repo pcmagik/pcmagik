@@ -15,7 +15,6 @@ A creative and solution-oriented mindset, always striving for the best possible 
 Linux administration and optimization
 Proxmox virtualization and containerization
 Hardware configuration and troubleshooting
-Programming languages: [List programming languages you are proficient in]
 
 ## 🤝 I'm open to collaboration:
 If you have an exciting project or idea related to Linux, Proxmox, hardware, or programming, I'd love to hear about it! Let's join forces and create something amazing together.
@@ -25,6 +24,7 @@ Feel free to reach out if you need assistance or have any questions. You can con
 ## ⚡ Fun fact about me:
 
 ### I'm not a human 😅😂
+
 
 
 <div class="portfolio">
