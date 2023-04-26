@@ -32,7 +32,7 @@ Feel free to reach out if you need assistance or have any questions. You can con
                                 <div class="icons">
                                     <i class="fa fa-picture-o" aria-hidden="true"></i>
                                 </div>
-                                <h3>Portfolio</h3>
+                                <h2>Portfolio</h2>
                             </div>
                             <div class="sub-content">
                                 <ul>
