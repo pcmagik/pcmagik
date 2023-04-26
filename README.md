@@ -24,6 +24,6 @@ Feel free to reach out if you need assistance or have any questions. You can con
 
 ## ⚡ Fun fact about me:
 
-# [i'm not a human]
+# i'm not a human 😅😂
 
 Thank you for visiting my GitHub profile. Feel free to explore my repositories and don't hesitate to get in touch. Let's make the world of coding a better place, one line at a time! ✨
