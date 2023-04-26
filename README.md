@@ -29,7 +29,9 @@ Feel free to reach out if you need assistance or have any questions. You can con
 Thank you for visiting my GitHub profile. Feel free to explore my repositories and don't hesitate to get in touch. Let's make the world of coding a better place, one line at a time! ✨
 
 
- <div class="portfolio">
+
+
+## <div class="portfolio">
                             <div class="title">
                                 <div class="icons">
                                     <i class="fa fa-picture-o" aria-hidden="true"></i>
