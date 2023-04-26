@@ -39,28 +39,28 @@ Thank you for visiting my GitHub profile. Feel free to explore my repositories a
                             <div class="sub-content">
                                 <ul>
                                     <li>
-                                        <h5>My Website </h5> <span>:</span><a href="https://mateuszpiekut.pl"
+                                        <h5>My Website </h5> <span></span><a href="https://mateuszpiekut.pl"
                                             target="blank">mateuszpiekut.pl</a>
                                     </li>
                                     <li>
-                                        <h5>Work Website </h5> <span>:</span><a href="https://pcmagik.pl"
+                                        <h5>Work Website </h5> <span></span><a href="https://pcmagik.pl"
                                             target="blank">pcmagik.pl</a>
                                     </li>
                                     <li>
-                                        <h5>Shop Website </h5> <span>:</span><a href="https://sklep.pcmagik.pl"
+                                        <h5>Shop Website </h5> <span></span><a href="https://sklep.pcmagik.pl"
                                             target="blank">sklep.pcmagik.pl</a>
                                     </li>
                                     <li>
-                                        <h5>facebook </h5> <span>:</span><a href="https://pl-pl.facebook.com/PCmagik"
+                                        <h5>facebook </h5> <span></span><a href="https://pl-pl.facebook.com/PCmagik"
                                             target="blank">facebook.com/PCmagik</a>
                                     </li>
                                     <li>
-                                        <h5>Youtube: </h5> <span>:</span><a
+                                        <h5>Youtube: </h5> <span></span><a
                                             href="https://www.youtube.com/c/PCMagikHomeLab" target="blank">PC Magik -
                                             Home Lab</a>
                                     </li>
                                     <li>
-                                        <h5>Discord: </h5> <span>:</span><a href="https://discord.gg/KqayYJVCa6"
+                                        <h5>Discord: </h5> <span></span><a href="https://discord.gg/9q4tBVJfEP"
                                             target="blank">PC Magik Discord</a>
                                     </li>
                                 </ul>
