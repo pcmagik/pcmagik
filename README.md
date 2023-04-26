@@ -31,7 +31,7 @@ Thank you for visiting my GitHub profile. Feel free to explore my repositories a
 
 
 
-## <div class="portfolio">
+<div class="portfolio">
                             <div class="title">
                                 <div class="icons">
                                     <i class="fa fa-picture-o" aria-hidden="true"></i>
