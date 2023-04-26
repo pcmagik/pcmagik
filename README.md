@@ -27,3 +27,42 @@ Feel free to reach out if you need assistance or have any questions. You can con
 # i'm not a human 😅😂
 
 Thank you for visiting my GitHub profile. Feel free to explore my repositories and don't hesitate to get in touch. Let's make the world of coding a better place, one line at a time! ✨
+
+
+ <div class="portfolio">
+                            <div class="title">
+                                <div class="icons">
+                                    <i class="fa fa-picture-o" aria-hidden="true"></i>
+                                </div>
+                                <h3>Portfolio</h3>
+                            </div>
+                            <div class="sub-content">
+                                <ul>
+                                    <li>
+                                        <h5>My Website </h5> <span>:</span><a href="https://mateuszpiekut.pl"
+                                            target="blank">mateuszpiekut.pl</a>
+                                    </li>
+                                    <li>
+                                        <h5>Work Website </h5> <span>:</span><a href="https://pcmagik.pl"
+                                            target="blank">pcmagik.pl</a>
+                                    </li>
+                                    <li>
+                                        <h5>Shop Website </h5> <span>:</span><a href="https://sklep.pcmagik.pl"
+                                            target="blank">sklep.pcmagik.pl</a>
+                                    </li>
+                                    <li>
+                                        <h5>facebook </h5> <span>:</span><a href="https://pl-pl.facebook.com/PCmagik"
+                                            target="blank">facebook.com/PCmagik</a>
+                                    </li>
+                                    <li>
+                                        <h5>Youtube: </h5> <span>:</span><a
+                                            href="https://www.youtube.com/c/PCMagikHomeLab" target="blank">PC Magik -
+                                            Home Lab</a>
+                                    </li>
+                                    <li>
+                                        <h5>Discord: </h5> <span>:</span><a href="https://discord.gg/KqayYJVCa6"
+                                            target="blank">PC Magik Discord</a>
+                                    </li>
+                                </ul>
+                            </div>
+                        </div><!-- portfolio -->
