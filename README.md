@@ -27,12 +27,14 @@ Feel free to reach out if you need assistance or have any questions. You can con
 
 
 
+
+
 <div class="portfolio">
                             <div class="title">
                                 <div class="icons">
                                     <i class="fa fa-picture-o" aria-hidden="true"></i>
                                 </div>
-                                <h2>Portfolio</h2>
+                                <h2>📣 Portfolio</h2>
                             </div>
                             <div class="sub-content">
                                 <ul>
