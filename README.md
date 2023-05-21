@@ -25,10 +25,11 @@ Feel free to reach out if you need assistance or have any questions. You can con
 
 ### I'm not a human 😅😂 I'am One Man Army!
 
-Cogito, ergo sum - Never the other way !
+### Cogito, ergo sum - Never the other way !
 
-Better to Die standing, than to live on your knees...
+### Better to Die standing, than to live on your knees...
 
+### let's show them what we're made of
 
 
 
