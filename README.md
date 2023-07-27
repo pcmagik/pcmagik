@@ -52,10 +52,6 @@ Feel free to reach out if you need assistance or have any questions. You can con
                                             target="blank">pcmagik.pl</a>
                                     </li>
                                     <li>
-                                        <h5>Shop Website </h5> <span></span><a href="https://sklep.pcmagik.pl"
-                                            target="blank">sklep.pcmagik.pl</a>
-                                    </li>
-                                    <li>
                                         <h5>facebook </h5> <span></span><a href="https://pl-pl.facebook.com/PCmagik"
                                             target="blank">facebook.com/PCmagik</a>
                                     </li>
