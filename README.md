@@ -61,7 +61,7 @@ Feel free to reach out if you need assistance or have any questions. You can con
                                             Home Lab</a>
                                     </li>
                                     <li>
-                                        <h5>Discord: </h5> <span></span><a href="https://discord.gg/9q4tBVJfEP"
+                                        <h5>Discord: </h5> <span></span><a href="https://discord.gg/vM4ahjMA4N"
                                             target="blank">PC Magik Discord</a>
                                     </li>
                                 </ul>
