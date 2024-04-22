@@ -4,7 +4,7 @@
 DevOps | Linux Systems Administrator  
 📍 Warka, Poland  
 📫 Contact: [biuro@mateuszpiekut.pl](mailto:biuro@mateuszpiekut.pl)  
-🔗 LinkedIn: [mateuszpiekut]([https://www.linkedin.com/in/mateuszpiekut](https://www.linkedin.com/in/mateusz-piekut-620b90273)
+🔗 LinkedIn: [mateuszpiekut](https://www.linkedin.com/in/mateusz-piekut-620b90273)
 
 ---
 
