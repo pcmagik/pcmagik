@@ -43,7 +43,7 @@ Feel free to ask me anything about Linux, automation, cloud technologies, or see
 
 - **My Website:** [mateuszpiekut.pl](https://mateuszpiekut.pl)
 - **Work Website:** [pcmagik.pl](https://pcmagik.pl)
-- **Social Media:** [Facebook - PCmagik](https://pl-pl.facebook.com/PCmagik), [YouTube - PC Magik Home Lab](https://www.youtube.com/c/PCMagikHomeLab), [Discord - PC Magik](https://discord.gg/vM4ahjMA4N)
+- **Social Media:** [Facebook - PCmagik](https://pl-pl.facebook.com/PCmagik), [YouTube - PC Magik Home Lab](https://www.youtube.com/c/PCMagikHomeLab), [Discord - PC Magik](https://discord.gg/FqS6pAmd5M)
 
 Thank you for visiting my GitHub profile. Feel free to explore my repositories and don't hesitate to get in touch. Let's make the world of coding a better place, one line at a time! ✨
 
