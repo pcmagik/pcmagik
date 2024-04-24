@@ -45,9 +45,7 @@ Zapraszam do zadawania pytań na temat Linuxa, automatyzacji i technologii chmur
 Dziękuję za odwiedziny mojego profilu GitHub. Zapraszam do eksploracji moich repozytoriów i nie wahaj się skontaktować. Razem uczynimy świat kodowania lepszym, linijka po linijce! ✨
 
 ## Statystyki
-
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pcmagik&show_icons=true&locale=pl&layout=compact&theme=light&line_height=0" alt="Serie wkładów Mateusza"/>
-</p>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pcmagik&theme=youtube-dark&date_format=j%20M%5B%20Y%5D" alt="Serie commitów Mateusza" /></a>
 
 [🇬🇧 English version of this file](README.md)
