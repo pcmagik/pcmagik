@@ -52,5 +52,8 @@ Thank you for visiting my GitHub profile. Feel free to explore my repositories a
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pcmagik&show_icons=true&locale=en&layout=compact&theme=light&line_height=0" alt="Mateusz's Contribution Streaks"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pcmagik&show_icons=true&locale=pl&layout=compact&theme=light&line_height=0" alt="Serie wkładów Mateusza"/>
+</p>
 
 [🇵🇱 Polish version of this file](README_PL.md)
