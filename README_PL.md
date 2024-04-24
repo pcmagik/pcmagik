@@ -40,7 +40,7 @@ Zapraszam do zadawania pytań na temat Linuxa, automatyzacji i technologii chmur
 
 - **Moja strona internetowa:** [mateuszpiekut.pl](https://mateuszpiekut.pl)
 - **Strona pracy:** [pcmagik.pl](https://pcmagik.pl)
-- **Media społecznościowe:** [Facebook - PCmagik](https://pl-pl.facebook.com/PCmagik), [YouTube - PC Magik Home Lab](https://www.youtube.com/c/PCMagikHomeLab), [Discord - PC Magik](https://discord.gg/vM4ahjMA4N)
+- **Media społecznościowe:** [Facebook - PCmagik](https://pl-pl.facebook.com/PCmagik), [YouTube - PC Magik Home Lab](https://www.youtube.com/c/PCMagikHomeLab), [Discord - PC Magik](https://discord.gg/FqS6pAmd5M)
 
 Dziękuję za odwiedziny mojego profilu GitHub. Zapraszam do eksploracji moich repozytoriów i nie wahaj się skontaktować. Razem uczynimy świat kodowania lepszym, linijka po linijce! ✨
 
