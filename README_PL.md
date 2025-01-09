@@ -28,7 +28,6 @@ Moje skupienie na sieciach i zabezpieczeniach zaowocowało zdolnością do zarz�
 - **Kubernetes & Integracja CI/CD**: Aktywnie uczę się Kubernetes, integrując go z wiedzą o CI/CD za pomocą Jenkins i Argo CD, oraz rozwijam umiejętności automatyzacji z Ansible. Ta część mojej podróży DevOps podkreśla naukę i rozwój.
 - **Bezpieczeństwo IT**: Badam najlepsze praktyki zarządzania certyfikatami SSL/TLS i konfiguracjami firewalli.
 
-
 ## 📸 Mój HomeLab
 
 Oto wizualizacja mojego home laba:
@@ -36,7 +35,6 @@ Oto wizualizacja mojego home laba:
 <p align="center">
   <img src="homelab.png" alt="HomeLab" title="Mój HomeLab">
 </p>
-
 
 ## 👯 Otwarty na współpracę
 

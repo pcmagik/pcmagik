@@ -31,6 +31,14 @@ Implementing effective backup strategies and utilizing monitoring tools like Gra
 - **Kubernetes & CI/CD Integration**: Actively engaged in mastering Kubernetes and integrating it with CI/CD pipelines using Jenkins and Argo CD. I am also advancing my automation skills with Ansible, Terraform, and Packer to tackle modern IT infrastructure challenges.
 - **IT Security**: Delving into best practices for SSL/TLS certificate management and firewall configurations to effectively navigate security challenges in IT.
 
+## 📸 My HomeLab
+
+Here is a visualization of my home lab:
+
+<p align="center">
+  <img src="homelab.png" alt="HomeLab" title="My HomeLab">
+</p>
+
 ## 👯 Open to Collaboration
 
 I am eager to collaborate on projects related to the development of open-source tools for infrastructure management and innovative projects in automation and configuration management.
