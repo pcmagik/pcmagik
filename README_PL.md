@@ -56,4 +56,8 @@ Dziękuję za odwiedziny mojego profilu GitHub. Zapraszam do eksploracji moich r
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pcmagik&theme=youtube-dark&date_format=j%20M%5B%20Y%5D" alt="Serie commitów Mateusza" /></a>
 
+---
+## Buy me a coffee ☕
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/pcmagik)
+
 [🇬🇧 English version of this file](README.md)

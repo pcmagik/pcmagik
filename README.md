@@ -60,4 +60,8 @@ Thank you for visiting my GitHub profile. Feel free to explore my repositories a
 <p align="center">
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=pcmagik&theme=transparent&date_format=j%20M%5B%20Y%5D" alt="Mateusz's Contribution Streaks" /></a>
 
+---
+## Buy me a coffee ☕
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support-orange?style=for-the-badge&logo=buy-me-a-coffee)](https://buymeacoffee.com/pcmagik)
+
 [🇵🇱 Polish version of this file](README_PL.md)
